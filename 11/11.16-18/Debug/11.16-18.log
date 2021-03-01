@@ -1,0 +1,5 @@
+﻿  stone.cpp
+  stonewt.cpp
+D:\Projekty\11\11.16-18\stonewt.cpp(21,17): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  11.16-18.vcxproj -> D:\Projekty\11\11.16-18\Debug\11.16-18.exe

@@ -1,0 +1,5 @@
+﻿  bank.cpp
+E:\Projekty\12\12.10-12\12.10-12\bank.cpp(15,22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  queue.cpp
+  Generowanie kodu...
+  12.10-12.vcxproj -> E:\Projekty\12\12.10-12\Debug\12.10-12.exe

@@ -1,0 +1,7 @@
+﻿  sales.cpp
+D:\Projekty\15\15.14-16\sales.cpp(4,55): error C2572: „Sales::bad_index::bad_index”: ponowna definicja domyślnego argumentu: parametr 1
+D:\Projekty\15\15.14-16\sales.h(14): message : zobacz deklarację „Sales::bad_index::bad_index”
+D:\Projekty\15\15.14-16\sales.cpp(40,82): error C2572: „LabeledSales::nbad_index::nbad_index”: ponowna definicja domyślnego argumentu: parametr 1
+D:\Projekty\15\15.14-16\sales.h(37): message : zobacz deklarację „LabeledSales::nbad_index::nbad_index”
+  use_sales.cpp
+  Generowanie kodu...

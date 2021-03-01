@@ -1,0 +1,25 @@
+#include <iostream>
+#include "dma.h"
+int main()
+{
+	using std::cout;
+	using std::endl;
+
+	baseDMA shirt("Portbelly", 8);
+	lacksDMA balloon("czerwony", "Blimp", 4);
+	hasDMA map("Merkator", "Buffalo Keys", 5);
+	cout << "Wypisanie obiektu baseDMA:\n";
+	cout << shirt << endl;
+	cout << "Wypisanie obiektu lacksDMA:\n";
+	cout << balloon << endl;
+	cout << "Wypisanie obiektu hasDMA:\n";
+	cout << map << endl;
+	lacksDMA balloon2(balloon);
+	cout << "Wynik kopiowania lacksDMA:\n";
+	cout << balloon << endl;
+	hasDMA map2;
+	map2 = map;
+	cout << "Wynik przypisania hasDMA:\n";
+	cout << map2 << endl;
+	return 0;
+}

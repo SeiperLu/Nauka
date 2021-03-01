@@ -1,0 +1,5 @@
+﻿  string1.cpp
+  sayings2.cpp
+E:\Projekty\12\12.7-9\12.7-9\sayings2.cpp(48,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  12.7-9.vcxproj -> E:\Projekty\12\12.7-9\Debug\12.7-9.exe

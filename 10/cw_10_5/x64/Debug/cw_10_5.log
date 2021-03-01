@@ -1,0 +1,5 @@
+﻿  clas_stack_main.cpp
+  stack_class_def.cpp
+  Generowanie kodu...
+L:\Projekty\cw_10_5\stack_class_def.cpp(26): warning C4715: "Stack::push”: niewszystkie ścieżki kodu zwracają wartość
+  cw_10_5.vcxproj -> L:\Projekty\cw_10_5\x64\Debug\cw_10_5.exe

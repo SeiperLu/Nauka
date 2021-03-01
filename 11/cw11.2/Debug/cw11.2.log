@@ -1,0 +1,9 @@
+﻿  randwalk.cpp
+D:\Projekty\11\11.13-14\randwalk.cpp(10,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  vector_cw11.2.cpp
+D:\Projekty\11\cw11.2\vector_cw11.2.cpp(42,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\Projekty\11\cw11.2\vector_cw11.2.cpp(43,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\Projekty\11\cw11.2\vector_cw11.2.cpp(68,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\Projekty\11\cw11.2\vector_cw11.2.cpp(69,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  cw11.2.vcxproj -> D:\Projekty\11\cw11.2\Debug\cw11.2.exe

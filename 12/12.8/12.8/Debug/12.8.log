@@ -1,0 +1,3 @@
+﻿  placenew1.cpp
+E:\Projekty\12\12.8\12.8\placenew1.cpp(49,18): error C2065: "errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr": niezadeklarowany identyfikator
+E:\Projekty\12\12.8\12.8\placenew1.cpp(50,2): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „cout”

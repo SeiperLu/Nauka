@@ -1,0 +1,3 @@
+﻿  rtti1.cpp
+D:\Projekty\15\15.17\rtti1.cpp(39,22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  15.17.vcxproj -> D:\Projekty\15\15.17\Debug\15.17.exe

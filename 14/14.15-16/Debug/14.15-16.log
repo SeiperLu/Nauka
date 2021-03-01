@@ -1,0 +1,3 @@
+﻿  stkoptr1.cpp
+D:\Projekty\14\14.15-16\stkoptr1.cpp(9,22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  14.15-16.vcxproj -> D:\Projekty\14\14.15-16\Debug\14.15-16.exe

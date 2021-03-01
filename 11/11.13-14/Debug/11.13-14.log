@@ -1,0 +1,3 @@
+﻿  randwalk.cpp
+D:\Projekty\11\11.13-14\randwalk.cpp(10,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  11.13-14.vcxproj -> D:\Projekty\11\11.13-14\Debug\11.13-14.exe

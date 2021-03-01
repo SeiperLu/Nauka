@@ -1,0 +1,2 @@
+L:\Projekty\cw_10_5\x64\Debug\cw_10_5.exe
+L:\Projekty\cw_10_5\x64\Debug\cw_10_5.pdb

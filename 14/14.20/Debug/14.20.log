@@ -1,0 +1,23 @@
+﻿  tempmemb.cpp
+D:\Projekty\14\14.20\tempmemb.cpp(25,39): warning C4244: "return": konwersja z "V" do "U", możliwa utrata danych
+          with
+          [
+              V=double
+          ]
+          and
+          [
+              U=int
+          ]
+D:\Projekty\14\14.20\tempmemb.cpp(35): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „U beta<double>::blal<int>(U,T)” funkcji szablon
+          with
+          [
+              U=int,
+              T=double
+          ]
+D:\Projekty\14\14.20\tempmemb.cpp(35): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „U beta<double>::blal<int>(U,T)” funkcji szablon
+          with
+          [
+              U=int,
+              T=double
+          ]
+  14.20.vcxproj -> D:\Projekty\14\14.20\Debug\14.20.exe
