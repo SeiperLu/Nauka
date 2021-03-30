@@ -1,0 +1,3 @@
+﻿  Bank_STL.cpp
+D:\Projekty\16\cw16.6\Bank_STL.cpp(17,22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  cw16.6.vcxproj -> D:\Projekty\16\cw16.6\Debug\cw16.6.exe
