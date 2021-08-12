@@ -1,0 +1,4 @@
+﻿  precise.cpp
+D:\Projekty\17\17.6\precise.cpp(6,22): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Projekty\17\17.6\precise.cpp(7,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  17.6.vcxproj -> D:\Projekty\17\17.6\Debug\17.6.exe

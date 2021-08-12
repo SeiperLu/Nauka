@@ -1,0 +1,3 @@
+﻿  width.cpp
+D:\Projekty\17\17.4\width.cpp(5,8): warning C4244: "inicjowanie": konwersja z "std::streamsize" do "int", możliwa utrata danych
+  17.4.vcxproj -> D:\Projekty\17\17.4\Debug\17.4.exe

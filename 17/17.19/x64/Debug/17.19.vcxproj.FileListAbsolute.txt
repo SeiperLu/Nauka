@@ -1,0 +1,2 @@
+D:\Projekty\17\17.19\x64\Debug\17.19.exe
+D:\Projekty\17\17.19\x64\Debug\17.19.pdb
